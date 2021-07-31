@@ -1,0 +1,22 @@
+{
+  "name": "UPsForm",
+  "version": "0.1.0",
+  "summary": "A short description of UPsForm.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/UPs/UPsForm",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "UPs": "dldbdjq@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/UPs/UPsForm.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "UPsForm/Classes/**/*"
+}

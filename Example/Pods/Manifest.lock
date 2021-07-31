@@ -1,0 +1,16 @@
+PODS:
+  - UPsForm (0.1.0)
+
+DEPENDENCIES:
+  - UPsForm (from `../`)
+
+EXTERNAL SOURCES:
+  UPsForm:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UPsForm: 6881388c2d67032f63558530f6936388ea7d4e3c
+
+PODFILE CHECKSUM: a3cf2bb8ddf5b7f35fd1a2dbcfd7c359d0c6b64b
+
+COCOAPODS: 1.10.0
